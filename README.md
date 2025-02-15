@@ -11,4 +11,6 @@ This project is the project code for "Continuous Structure Constraint Integratio
 - rich
 # Running a simple demo
 `python main.py`
-
+# More Setting
+Modify the line "args={'n_nodes':40,...}" in main.py, or use 
+`python main.py --n_nodes=40 --text=0`
