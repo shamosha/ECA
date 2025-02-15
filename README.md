@@ -1,4 +1,4 @@
-# ECA
+# Edge Constraint Adaptive (ECA) Method to Incorporate Prior into Causal Discovery
 This project is the project code for "Continuous Structure Constraint Integration for Robust Causal Discovery".
 
 # Requirements
@@ -9,8 +9,8 @@ This project is the project code for "Continuous Structure Constraint Integratio
 - scipy
 - python-igraph
 - rich
-# Running a simple demo
+# Running a Simple Demo
 `python main.py`
-# More setting
+# More Setting
 Modify the line "args={'n_nodes':40,...}" in main.py, or use command line like:
 `python main.py --n_nodes=40 --text=0`
